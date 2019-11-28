@@ -1,0 +1,11 @@
+Results
+      Age         FundamentalFreq
+ Min.   : 2.000   Min.   :400.0  
+ 1st Qu.: 6.750   1st Qu.:495.0  
+ Median :10.500   Median :515.0  
+ Mean   : 9.812   Mean   :553.8  
+ 3rd Qu.:13.250   3rd Qu.:597.5  
+ Max.   :20.000   Max.   :840.0  
+
+
+
